@@ -1,7 +1,7 @@
-deviceice "name": "SESOM TECH",
+device "name": "SESOM TECH",
   "description": "SESOM TECH made help to help Whatsapp users to enjoy while helping...",
   "keywords": [
-    "bot"noetectileys",
+    "bot" "baileys",
     "whatsapp"
   ],  "repository": "https://github.com/mr-X-force/LUCKY-MD-XFORCE",
   "succes_url": "/",
@@ -178,4 +178,5 @@ deviceice "name": "SESOM TECH",
   ]
 
 }
+
 
