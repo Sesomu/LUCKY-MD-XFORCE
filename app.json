@@ -1,20 +1,18 @@
 {
-  "name": "💦LUCKY-MD-XFORCE💨 MULTI DEVICE",
-  "description": "💦LUCKY-MD-⁠XFORCE💨 Whatsapp device bot made by FrediEzra Tech Info to help Whatsapp users to enjoy while helping...",
+  "name": "SESOM TECH",
+  "description": "SESOM TECH made help to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
-    "node",
+    device
     "baileys",
     "whatsapp"
-  ],
-  "logo": "https://files.catbox.moe/uw4l17.jpeg",
-  "repository": "https://github.com/mr-X-force/LUCKY-MD-XFORCE",
+  ],  "repository": "https://github.com/mr-X-force/LUCKY-MD-XFORCE",
   "succes_url": "/",
   "stack": "container",
   "env": {
     "PREFIX": {
       "description": "Choose your bot's prefix",
-      "value": ".",
+      "value": "SESOM TECH",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -39,13 +37,13 @@
       "required": false
     },
     "ANTI_BAD": {
-      "description": "when enabled it bot was detect bad words and delete",
-      "value": "no",
+      "description": "when enabled it will noetect bad words and delete",
+      "value": "yesno
       "required": false
     },
     "ANTI_BUG": {
       "description": "when you enable anti bug 🐛 bot is detect bugs text and delete",
-      "value": "no",
+      "value": "yno",
       "required": false
     },
     "AUTO_REACT_STATUS": {
@@ -60,7 +58,7 @@
     },
     "AUTO_SAVE_CONTACTS": {
       "description":"Enter yes for your bot to auto save contacts",
-      "value":"no",
+      "value":false
       "required":false
     },
     "AUTO_STICKER": {
@@ -80,17 +78,16 @@
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
-      "value": "💲YOUR STATUS VIEWED BY 💦LUCKY-MD-⁠XFORCE💨 SUCCESSFUL 😇✅✅",
-      "required": false
-    },
+      "value": "💲YOUR STATUS VIEWED BY SESOM TECH SUCCESSFUL 😇✅✅",
+      "required": falurs   },
     "AUTO_STATUS_REPLY": {
       "description": "type your genuine status message",
       "value": "no",
       "required": false
     },
     "CHAT_BOT": {
-      "description": "urs if you want bot to chat automatic in inbox",
-      "value": "no",
+      "description": "yes if you want bot to chat automatic in inbox",
+      "value": "yes",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -110,12 +107,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "LUCKY-XFORCE••<=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUY1bU11c1ZkVW1TZmkzYno3QkVHbUQwOTQra1JPb1l1NEczamduRUFYOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNlJWV1N6ZGFFUGs0V3VhVGxoSWlaRGVUNkw2RUxsT0dWUDVZMFVSYzF5ND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtRW9BK3JqcGdSSWdoQW15dEd5eVRJRVdZSnhjbG9sK2tBbTRBZitJQWxVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtSlN3TDNCUklkTVR3OE5oOWNPRGlkN3MxUUtXVXM4V2s1Sjh0bVo3OVUwPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdLZ2hSeFd5aTY0NGpZMzY5bXhpU1N5ZlNZUWV0NkRIdHhudFhHUWV0MVU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImovZ2hJMkVVVHRrUUhWV1d5Zkk3MWdOeFhMY05tcmhqOUlsR3BsUHMweFE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0xOWmMvam0ySXl0TlM3SU0vbENXUzZvUzhCaS9kSnVpU3RXS3pwRE9HND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUNXU0J5b2F1VmdtT3RIVGEyZHp2S0YrRzZJMXUvNklPK2lZUkc0SjdGST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InRwcFpkUGRpNTE2cTlzQisvU3lTWFpRU0FUS2RURXI5bmhQM052NWtFR04rby9RUUtiZ1Evb2p6ZVF0eGREUjI4RVdha1pLMjk0VGZnRHQzaFdtc0NRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTk5LCJhZHZTZWNyZXRLZXkiOiJEVVRGZEl3dHA0Y2VNMC83UlJJdUZ5OU9LMGxCRk1URHlRYUFxR0lsYzMwPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NDcyODUxMTU5OUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI2RTRFNjgyMDhERTA2NzFCMDQ3NDg3QzlEMzE3MzczQiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzU0NDYwNTg4fSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNTQ3Mjg1MTE1OTlAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiOEJFNkYzNjQwQUJGOEQwMDhDRTQ4ODQ3Njk4M0E1MjcifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc1NDQ2MDU5MX1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sInJlZ2lzdGVyZWQiOnRydWUsInBhaXJpbmdDb2RlIjoiSDJWM0pNTVQiLCJtZSI6eyJpZCI6IjI1NDcyODUxMTU5OTo3N0BzLndoYXRzYXBwLm5ldCIsImxpZCI6IjkyOTUyMTUyMDI3MTY5Ojc3QGxpZCIsIm5hbWUiOiJTRVNPTSBURUNIIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNMdTM3T0FDRUpIank4UUdHQVVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJEWWd6eTFyTXlaZFV5ZjMybnBTWjhsVHNQY29Qam5XZi9xQk03SnhZdnhnPSIsImFjY291bnRTaWduYXR1cmUiOiJucGhHbExPdEJkOVRtWW1HZkMyQ3JsVGZZbmRIMzdtTWg0OURXeDlFbktYTSt1MDczMGdERy95S3JwZWgvb3Uwb1FLTmIvc1Z2RDVnWUI3bkMyNEJEUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoia3NjWkJQbVdnZVJmN0kwRlM3VEZ1blE5c1ZRT2hiTkJzelgreXNkUWRwUGMwSG5NeUJMK2VWNllLNjF1TVc1OEdkQnE5Tm9uaVlxWExrd0JDTVVRREE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTQ3Mjg1MTE1OTk6NzdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCUTJJTTh0YXpNbVhWTW45OXA2VW1mSlU3RDNLRDQ1MW4vNmdUT3ljV0w4WSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FVSUVnPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzU0NDYwNTc1LCJsYXN0UHJvcEhhc2giOiJQV2s1QiIsIm15QXBwU3RhdGVLZXlJZCI6IkFFa0FBFrediEzra,
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "Kwendo",
       "required": false
     },
     "AUTO_READ_MESSAGES": {
@@ -125,7 +122,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "25472851159no,
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
@@ -140,7 +137,7 @@
     },
     "ANTI_DELETE_MESSAGES": {
       "description": "Enable anti-delete message in dm's (set 'yes' to activate or 'no' to deactivate)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "ANTI_CALL": {
@@ -158,6 +155,7 @@
       "value": "no",
       "required": false
     }
+
     },
 
   "formation": {
