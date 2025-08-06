@@ -1,10 +1,7 @@
-{
-  "name": "SESOM TECH",
+deviceice "name": "SESOM TECH",
   "description": "SESOM TECH made help to help Whatsapp users to enjoy while helping...",
   "keywords": [
-    "bot",
-    device
-    "baileys",
+    "bot"noetectileys",
     "whatsapp"
   ],  "repository": "https://github.com/mr-X-force/LUCKY-MD-XFORCE",
   "succes_url": "/",
@@ -37,13 +34,13 @@
       "required": false
     },
     "ANTI_BAD": {
-      "description": "when enabled it will noetect bad words and delete",
-      "value": "yesno
+      "description": "when enabled it will not detect bad words and delete",
+      "value":"no"
       "required": false
     },
     "ANTI_BUG": {
       "description": "when you enable anti bug 🐛 bot is detect bugs text and delete",
-      "value": "yno",
+      "value": "no",
       "required": false
     },
     "AUTO_REACT_STATUS": {
@@ -181,3 +178,4 @@
   ]
 
 }
+
