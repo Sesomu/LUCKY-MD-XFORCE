@@ -76,7 +76,8 @@
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
       "value": "💲YOUR STATUS VIEWED BY SESOM TECH SUCCESSFUL 😇✅✅",
-      "required": falurs   },
+      "required": "false"
+    },
     "AUTO_STATUS_REPLY": {
       "description": "type your genuine status message",
       "value": "no",
@@ -119,7 +120,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "25472851159no,
+      "value": "25472851159",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
@@ -178,6 +179,7 @@
   ]
 
 }
+
 
 
 
